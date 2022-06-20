@@ -1,0 +1,82 @@
+
+   <!-- Edited on Saturday, 25th December 2021 -->
+    <style>
+@import url('https://fonts.googleapis.com/css2?family=Oswald:wght@600&display=swap');
+        * {
+            padding: 0;
+            margin: 0;
+            text-decoration: none;
+            list-style: none;
+            box-sizing: border-box;
+            scroll-behavior: smooth;
+
+        }
+        body {
+            font-family: 'Monospace', Sans-Serif;
+
+        }
+        nav {
+          background-color: #00F0FF;
+          height:  80px;
+          width: 100%;
+        }
+        label.logo {
+            color: #008CFF;
+            font-size: 35px;
+            line-height:  80px;
+            padding: 0 100px;
+            font-wheight: bold;
+        }
+        nav ul {
+            float: right;
+            margin-right: 20.1px;
+        }
+        nav ul li {
+            display: inline-block;
+            line-height: 80px;
+            margin: 0 5px;
+            
+        }
+        nav ul li a {
+            color:  white;
+            font-size: 18px;
+            padding: 6.5px 12.9px;
+            border-radius: 2.5px;
+            text-transform: uppercase;
+        }
+        a.active,a:hover {
+            background: #00FFCD;
+            transition:  .5s;
+        }
+        .skipnav {
+            background-color: #568BD3;
+            color: #fff;
+            border-radius: 0.25em;
+        }
+
+        
+    </style>
+    <script>
+        const data = "__blank";
+        console.log("<LOG> Abdulhadishahzad.xp3.biz !!!!");
+        alert("Message: 200 /about (Press OK to redirect)");
+        console.warn("<Warning> Differant devices might change the viewport!");
+    </script>
+<script src="https://kit.fontawesome.com/a076d05399.js" crossorigin="anonymous"></script>
+<a class="skipnav" href="#skipped-nav">Skip Navigation</a>
+    <nav>
+        
+    <label class="logo">Site</label>
+    <ul>
+        <li><a href="/abdulhadishahzad.xp3.biz" class="active" >Home</a></li>
+        <li><a class="active" href="/about"> > About</a></li>
+        <li><a class="active" href="form/_site/index.html">Updates/Annoucements</a></li>
+    </ul>
+    </nav>
+    <main id="skipped-nav">
+        <h1>About me!</h1>
+        <p>Hi i like to code</p>
+        <p>I thought having a site is <strong>cool</strong></p>
+        <p>So i <strong>made</strong> one!</p>
+    </main>
+ 

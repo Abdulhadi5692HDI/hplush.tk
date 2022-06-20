@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="4.2.1">Jekyll</generator><link href="/feed.xml" rel="self" type="application/atom+xml" /><link href="/" rel="alternate" type="text/html" /><updated>2021-11-03T20:07:30+00:00</updated><id>/feed.xml</id><title type="html">Your awesome title</title><subtitle>Write an awesome description for your new site here. You can edit this line in _config.yml. It will appear in your document head meta (for Google search results) and in your feed.xml site description.</subtitle><entry><title type="html">Development Stage!</title><link href="/2021/11/03/dev-stage.html" rel="alternate" type="text/html" title="Development Stage!" /><published>2021-11-03T19:48:59+00:00</published><updated>2021-11-03T19:48:59+00:00</updated><id>/2021/11/03/dev-stage</id><content type="html" xml:base="/2021/11/03/dev-stage.html">&lt;p&gt;For christmas this website will be in ¤dev stage¤ until 2022 specific date.&lt;/p&gt;
+
+&lt;p&gt;So you might see broken links and broken images etc.
+🎄Hope you have good christmas!🎄&lt;/p&gt;</content><author><name></name></author><summary type="html">For christmas this website will be in ¤dev stage¤ until 2022 specific date. So you might see broken links and broken images etc. 🎄Hope you have good christmas!🎄</summary></entry><entry><title type="html">Website Update</title><link href="/website/update/2021/10/24/website-update.html" rel="alternate" type="text/html" title="Website Update" /><published>2021-10-24T00:00:00+01:00</published><updated>2021-10-24T00:00:00+01:00</updated><id>/website/update/2021/10/24/website-update</id><content type="html" xml:base="/website/update/2021/10/24/website-update.html">&lt;h2 id=&quot;abdulhadishahzad-xp3-biz-update&quot;&gt;Abdulhadishahzad .xp3 .biz UPDATE!!!!!&lt;/h2&gt;
+&lt;p&gt;Welp, now this does not look like a plain html website.&lt;/p&gt;
+
+&lt;p&gt;Now, introducting Announcements and Posts for updates of anything happening on this site&lt;/p&gt;</content><author><name></name></author><category term="website" /><category term="update" /><summary type="html">Abdulhadishahzad .xp3 .biz UPDATE!!!!! Welp, now this does not look like a plain html website. Now, introducting Announcements and Posts for updates of anything happening on this site</summary></entry><entry><title type="html">BigText! 0.2!</title><link href="/bigtext/update/2021/10/24/bigtext-0-2.html" rel="alternate" type="text/html" title="BigText! 0.2!" /><published>2021-10-24T00:00:00+01:00</published><updated>2021-10-24T00:00:00+01:00</updated><id>/bigtext/update/2021/10/24/bigtext-0-2</id><content type="html" xml:base="/bigtext/update/2021/10/24/bigtext-0-2.html">&lt;p&gt;&lt;img src=&quot;https://raw.githubusercontent.com/Abdulhadi5692HDI/BIGTEXT/gh-pages/20211024_115649.jpg&quot; alt=&quot;Logo&quot; /&gt;&lt;/p&gt;
+
+&lt;p&gt;Such &lt;code class=&quot;language-plaintext highlighter-rouge&quot;&gt;BigText&lt;/code&gt; can made with this tool!&lt;/p&gt;
+
+&lt;h3 id=&quot;what-you-can-do&quot;&gt;What you can do!&lt;/h3&gt;
+&lt;p&gt;Convert this tiny text:&lt;/p&gt;
+
+&lt;pre&gt;&lt;code class=&quot;language-Hello!```&quot;&gt;Into this:
+
+&lt;/code&gt;&lt;/pre&gt;
+&lt;hr /&gt;
+&lt;p&gt;| | | | &lt;em&gt;&lt;strong&gt;| | | ___ | |
+| |_| |/ _ \ | |/ _ | |
+|  _  |  __/ | | (_) |_|
+|_| |_|_&lt;/strong&gt;|&lt;/em&gt;|&lt;em&gt;|___/(&lt;/em&gt;)&lt;/p&gt;
+
+&lt;p&gt;```&lt;/p&gt;</content><author><name></name></author><category term="bigtext" /><category term="update" /><summary type="html">Such BigText can made with this tool! What you can do! Convert this tiny text: Into this: | | | | | | | ___ | | | |_| |/ _ \ | |/ _ | | | _ | __/ | | (_) |_| |_| |_|_|||___/() ```</summary></entry></feed>
